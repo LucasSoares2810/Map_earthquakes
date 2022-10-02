@@ -1,0 +1,301 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1664661530000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+        "title": "USGS All Earthquakes, Past Hour",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 7
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.05,
+                "place": "3km WNW of Anderson Springs, CA",
+                "time": 1664660206200,
+                "updated": 1664660302805,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73788116",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73788116.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 17,
+                "net": "nc",
+                "code": "73788116",
+                "ids": ",nc73788116,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 10,
+                "dmin": 0.01073,
+                "rms": 0.02,
+                "gap": 139,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.1 - 3km WNW of Anderson Springs, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7229996,
+                    38.7830009,
+                    1.76
+                ]
+            },
+            "id": "nc73788116"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.75,
+                "place": "18km ESE of Anza, CA",
+                "time": 1664659834070,
+                "updated": 1664660045526,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40354240",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40354240.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 9,
+                "net": "ci",
+                "code": "40354240",
+                "ids": ",ci40354240,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 21,
+                "dmin": 0.07004,
+                "rms": 0.18,
+                "gap": 70,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.8 - 18km ESE of Anza, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.4986667,
+                    33.4888333,
+                    10.61
+                ]
+            },
+            "id": "ci40354240"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.18,
+                "place": "9km NE of Cabazon, CA",
+                "time": 1664659781710,
+                "updated": 1664659997182,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40354232",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40354232.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 21,
+                "net": "ci",
+                "code": "40354232",
+                "ids": ",ci40354232,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 29,
+                "dmin": 0.08531,
+                "rms": 0.14,
+                "gap": 67,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.2 - 9km NE of Cabazon, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.7215,
+                    33.9788333,
+                    14.22
+                ]
+            },
+            "id": "ci40354232"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.08,
+                "place": "8km NE of Cabazon, CA",
+                "time": 1664659603530,
+                "updated": 1664660272060,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40354224",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40354224.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 67,
+                "net": "ci",
+                "code": "40354224",
+                "ids": ",ci40354224,",
+                "sources": ",ci,",
+                "types": ",focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 61,
+                "dmin": 0.08585,
+                "rms": 0.18,
+                "gap": 34,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 2.1 - 8km NE of Cabazon, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.7305,
+                    33.978,
+                    15.13
+                ]
+            },
+            "id": "ci40354224"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "Kepulauan Kai, Indonesia",
+                "time": 1664659457856,
+                "updated": 1664660865040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000iq2r",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000iq2r.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000iq2r",
+                "ids": ",us6000iq2r,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 23,
+                "dmin": 2.835,
+                "rms": 0.69,
+                "gap": 84,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - Kepulauan Kai, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.76,
+                    -5.3363,
+                    34.588
+                ]
+            },
+            "id": "us6000iq2r"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.73,
+                "place": "15km SW of La Quinta, CA",
+                "time": 1664659418600,
+                "updated": 1664659632090,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40354216",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40354216.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 8,
+                "net": "ci",
+                "code": "40354216",
+                "ids": ",ci40354216,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 19,
+                "dmin": 0.03315,
+                "rms": 0.14,
+                "gap": 77,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.7 - 15km SW of La Quinta, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.4021667,
+                    33.5501667,
+                    11
+                ]
+            },
+            "id": "ci40354216"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.8,
+                "place": "32 km NNW of Beluga, Alaska",
+                "time": 1664659185012,
+                "updated": 1664659292009,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak022clhvd2g",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak022clhvd2g.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 50,
+                "net": "ak",
+                "code": "022clhvd2g",
+                "ids": ",ak022clhvd2g,",
+                "sources": ",ak,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.58,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.8 - 32 km NNW of Beluga, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -151.3225,
+                    61.4126,
+                    64.7
+                ]
+            },
+            "id": "ak022clhvd2g"
+        }
+    ],
+    "bbox": [
+        -151.3225,
+        -5.3363,
+        1.76,
+        133.76,
+        61.4126,
+        64.7
+    ]
+}
